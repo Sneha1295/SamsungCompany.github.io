@@ -1,0 +1,101 @@
+body{
+	text-align:left;
+	background-color:#FFB6C1;
+	
+}
+
+h1{
+	text-align:center;
+	font-size:60px;
+	font-family:lato;
+	color:black;
+	text-shadow:6 7 20px geay;
+	margin-top:50px;
+	padding-right:500px;
+	
+}
+h2{
+	font-size:26px;
+	
+}
+h4{
+	color:red;
+	padding-left:7%;
+}
+
+div{
+	text-align:left;
+}
+a{
+	color:blue;
+	font-size:16px;
+	padding:20px;
+}
+p{
+	text-align:left;
+	font-size:18px;
+	font-family:lato;
+	text-decoration:transparent gray;
+	padding-left:10px;
+	padding-right:600px;
+}
+img{
+	border:1px solid #ddd;
+	border-radius:8px;
+	padding:5px;
+	width:100px;
+}
+.containt{
+	font-size:20px;
+	margin-top:20px;
+	width:300px;
+	background-color:#ffff99;
+	
+}
+table, th, td{
+	border:1px solid black;
+	text-align:left;
+	border-spacing:1px;
+}
+.box{
+	border:10px solid green;
+	width:200px;
+	padding:20px;
+	margin:10px;
+}	
+.logo{
+	border-radius:8px;
+	padding:5px;
+	width:400px;
+}
+
+.center{
+	display:block;
+	margin-right:auto;
+	width:16%;
+}
+.ulstyle{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.company{
+	display:block;
+	margin-left:auto;
+	width:35%;
+	height:30%;
+	float:right;
+	padding-right:20px;
+	margin-top:10px;
+	
+}
+li a{
+	display:block;
+	width:200px;
+	background-color:#dddddd;
+}
+
+
+
+
+
